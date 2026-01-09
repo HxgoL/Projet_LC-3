@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	main              3000
+//	sousRoutine       3005
+//	copie             3005
+//	valeur            300C
+//	chaine2           301C
+

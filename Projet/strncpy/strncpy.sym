@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	main              3000
+//	sousRoutine       3007
+//	copie             3009
+//	boucle0           3012
+//	cas_ou_n_petit    3017
+//	fin               3018
+//	valeur            3019
+//	chaine2           3029
+//	n                 3069
+

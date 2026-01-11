@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	loop              3006
+//	siUn              300D
+//	x                 300E
+//	m                 300F
+

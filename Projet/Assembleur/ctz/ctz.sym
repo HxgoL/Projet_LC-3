@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	xor               3007
+//	popcnt            300D
+//	loop              3011
+//	siZero            3014
+//	x                 3018
+

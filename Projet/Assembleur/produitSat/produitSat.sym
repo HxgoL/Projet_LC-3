@@ -1,0 +1,20 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	main              3000
+//	testProduit       3005
+//	casZeroEtPos      3018
+//	calculProduit     301B
+//	loopMult          3022
+//	siZeroMult        3025
+//	clz               302A
+//	loop              3030
+//	siUn              3037
+//	a                 3038
+//	b                 3039
+//	clzA              303A
+//	clzB              303B
+//	memR7             303C
+//	m                 303D
+
